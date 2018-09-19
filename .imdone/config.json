@@ -15,15 +15,15 @@
   },
   "lists": [
     {
+      "name": "ACTIVE",
+      "hidden": false
+    },
+    {
       "name": "HELP",
       "hidden": false
     },
     {
       "name": "DONE",
-      "hidden": false
-    },
-    {
-      "name": "ACTIVE",
       "hidden": false
     }
   ],
